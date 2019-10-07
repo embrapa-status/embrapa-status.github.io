@@ -1,0 +1,22 @@
+{
+  "name": "Embrapa Services Status",
+  "short_name": "Embrapa Status",
+  "description": "Status de disponibilidade dos serviços digitais da Embrapa.",
+  "icons": [
+    {
+      "src": "./img/icons/android/launcher-icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/icons/android/splash-icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#4DBA87",
+  "orientation": "any"
+}
