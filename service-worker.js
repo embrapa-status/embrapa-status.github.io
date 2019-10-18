@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.bdbac282e9a96574826e31dec5a483a5.js"
+  "/precache-manifest.928162ee75672226d178458fa3c779a0.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "embrapa-status"});
